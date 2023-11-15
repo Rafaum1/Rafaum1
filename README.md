@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou o @Rafaum
+- 👋 Olá, Eu sou o Rafael Miranda
 
 <div>
 <a href="https://github.com/Rafaum1">
