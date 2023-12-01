@@ -5,10 +5,10 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rafaum1&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=800080&bg_color=0D1117" alt="Rafael github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaum1&layout=compact&hide_border=true&title_color=800080&text_color=800080&bg_color=800080" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaum1&layout=compact&hide_border=true&title_color=800080&text_color=800080&bg_color=0D1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafaum1&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafaum1&bg_color=000000&color=800080&line=800080&point=800080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rafaum1&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
