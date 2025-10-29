@@ -64,8 +64,6 @@ Meu primeiro contato sério com programação foi em **2023, no Senac**, durante
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaum1&layout=compact&hide_border=true&title_color=00a3e1&text_color=00a3e1&bg_color=0D1117" />
 </div>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafaum1&bg_color=000000&color=00a3e1&line=00a3e1&point=00a3e1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 <div align="center">
