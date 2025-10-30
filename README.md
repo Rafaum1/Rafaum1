@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a3e1&height=120&section=header"/>
 
 # 👋 Olá, eu sou Rafael Santos Miranda
-**Ciência da Computação (4º semestre) | Desenvolvimento Web | Aprendiz Administrativo de RH DP**
+**Ciência da Computação (4º semestre) | Desenvolvimento Web - Full Stack**
 
 ---
 
