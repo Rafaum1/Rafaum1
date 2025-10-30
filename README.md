@@ -12,7 +12,7 @@ Meu primeiro contato sério com programação foi em **2023, no Senac**, durante
 
 ---
 
-## 💻 Projetos
+## 💻 Principais Projetos
 - [Portfólio Pessoal](https://rafaum.com) – Portfólio pessoal.
 - [GarbuioCort's](https://garbuio-cortes.vercel.app/) – Projeto Voluntário de uma Landing Page desenvolvida para uma barbearia.  
 - [RafaumLinks](https://rafaum1.github.io/Projeto__Rafaumlinks/) – Projeto Pessoal de uma página estilo DevLinks.
