@@ -13,9 +13,9 @@ Meu primeiro contato sério com programação foi em **2023, no Senac**, durante
 ---
 
 ## 💻 Projetos
-- [Portfólio Pessoal](https://rafaum.com) – Site pessoal com dark/light mode e suporte a múltiplos idiomas.  
-- [GarbuioCort's](#) – Landing Page desenvolvida para uma barbearia.  
-- [Blog Simples](#) – Blog em HTML/CSS com layout responsivo.
+- [Portfólio Pessoal](https://rafaum.com) – Portfólio pessoal.
+- [GarbuioCort's](https://garbuio-cortes.vercel.app/) – Projeto Voluntário de uma Landing Page desenvolvida para uma barbearia.  
+- [RafaumLinks](https://rafaum1.github.io/Projeto__Rafaumlinks/) – Projeto Pessoal de uma página estilo DevLinks.
 
 ---
 
@@ -50,9 +50,9 @@ Meu primeiro contato sério com programação foi em **2023, no Senac**, durante
 ## 🌐 Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rafaumz/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelmirandaz/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafaum1)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/SEUNUMERO)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516997932147)
 
 
 
