@@ -72,7 +72,7 @@ Meu primeiro contato sério com programação foi em **2023, no Senac**, durante
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lzdevmendes&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rafaum1&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a3e1&height=120&section=footer"/>
