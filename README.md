@@ -71,4 +71,8 @@ Meu primeiro contato sério com programação foi em **2023, no Senac**, durante
   <p><i>"Nós somos aquilo que fazemos repetidamente. A excelência, então, não é um ato, mas um hábito." – Aristóteles</i></p>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lzdevmendes&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a3e1&height=120&section=footer"/>
